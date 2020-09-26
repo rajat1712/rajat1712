@@ -4,7 +4,7 @@
 
 
 - 🔭 Currently working on Competitive Programming/Data Structures and Algorithms
-- 🌱 Currently learning Javascript
+- 🌱 Learning Javascript
 - 📫 How to reach me: rbatra_be17@thapar.edu or https://www.linkedin.com/in/rajat-batra17/
 - ⚡ Fun fact: I can reverse a Linked List :)
 -->
