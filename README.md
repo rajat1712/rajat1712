@@ -1,4 +1,4 @@
-### Hi there. This is Rajat Batra. Undegrad student from Thapar Institute of Engineering and Technology(2017-2021). Currently new to open source! 👋
+### Hi there. This is Rajat Batra. Undegrad student from Thapar Institute of Engineering and Technology(2017-2021).! 👋
 
 
 
