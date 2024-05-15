@@ -3,8 +3,8 @@
 
 
 
-- 🔭 Currently working on Machine Learning.
-- 📫 How to reach me: rbatra_be17@thapar.edu or https://www.linkedin.com/in/rajat-batra17/
+- 🔭 Currently working on Data Analytics tools- SQL, Python (Pandas) , Tableau, PowerBI, Excel
+- 📫 How to reach me: rajat1712.batra@gmail.com or https://www.linkedin.com/in/rajat-batra17/
 - ⚡ Fun fact: I can reverse a Linked List :)
 -https://leetcode.com/_rajat17/
 -->
